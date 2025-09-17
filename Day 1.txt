@@ -1,0 +1,52 @@
+1.DevOps Introduction
+What is DevOps?
+DevOps=Development+Operations	
+It's a culture + set of practices + tools that help
+	Developers(who write code)
+	Operations(who deploy/manage systems)
+Work together, instead of working in silos(individually)
+
+Real time example
+
+Imagine you are building a mobile app like Zomato
+	The developer writes code to add "Track /my order" feature.
+	Without DevOps: Developer givers code to ops team ->they mannually deploy ->bugs happen ->delays
+	With DevOps: Code is automatically tested and deployed -> customers get updates faster and safely
+
+
+DevOps helps you:
+	Release features fastly
+	Fix bugs quickly
+	Automate repetitive tasks
+
+
+Phases of DevOps
+   1.Plan Mode - Define what to build
+   2.Develop - Write the code
+   3.Build - Compile code into deployable format
+   4.Test mode - Checks for bugs automatically
+   5.Release - Approve the build for development
+   6.Deploy - Push app to servers or app store 
+   7.Operate - Keep app running , fix any issues
+   8.Monitor - Analyze performance and feedback
+
+
+
+GITHUB BASICS
+ 
+What is Git & GitHub?
+Git = Version control  system(local)
+GitHub = Online platform to store Git project
+
+
+COMMON SHAPES AND THEIR MEANINGS
+
+1.Rectangle -> Process/Task
+2.Diamond ->Decision
+3.Document shape -> Document
+4.Cylinder -> Database/Storage
+5.Folder shape -> Dataset/Repository
+6.Cloud Shape -> Cloud/Internet
+7.Arrous -> Connector
+8.Oval / Ellipse -> Start/End
+9.Parallelogram ->Input/Output
