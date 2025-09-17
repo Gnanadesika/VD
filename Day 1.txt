@@ -20,17 +20,6 @@ DevOps helps you:
 	Automate repetitive tasks
 
 
-Phases of DevOps
-   1.Plan Mode - Define what to build
-   2.Develop - Write the code
-   3.Build - Compile code into deployable format
-   4.Test mode - Checks for bugs automatically
-   5.Release - Approve the build for development
-   6.Deploy - Push app to servers or app store 
-   7.Operate - Keep app running , fix any issues
-   8.Monitor - Analyze performance and feedback
-
-
 
 GITHUB BASICS
  
@@ -49,4 +38,5 @@ COMMON SHAPES AND THEIR MEANINGS
 6.Cloud Shape -> Cloud/Internet
 7.Arrous -> Connector
 8.Oval / Ellipse -> Start/End
+
 9.Parallelogram ->Input/Output
